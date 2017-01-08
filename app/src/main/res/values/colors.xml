@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="button_pressed">#C6C6C6</color>
+    <color name="button_focused">#C6C6C6</color>
+    <color name="button_default">#FFFFFF</color>
+    <color name="black_key">#000000</color>
+    <color name="darkgrey">#4F4F4F</color>
+    <color name="back">#FF0000</color>
+    <color name="play">#DC143C</color>
+    <color name="pink">#FFB6C1</color>
+    <color name="green">#7CFC00</color>
+    <color name="springgreen">#00FA9A</color>
+    <color name="aqua">	#00FFFF</color>
+    <color name="peach">#BD7F22</color>
+    <color name="darkgreen">#006400</color>
+    <color name="wood">#471303</color>
+    <color name="brick_red">#F90803</color>
+    <color name="light">#F9C108</color>
+</resources>
